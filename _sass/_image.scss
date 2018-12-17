@@ -1,0 +1,11 @@
+.image-wrapper {
+	margin-top: $space-3;
+    text-align: center;
+
+    .image-caption {
+        color: $dark-gray;
+        margin-top: $space-1 / 2;
+        margin-bottom: $space-3;
+        font-size: $base-font-size;
+    }
+}
