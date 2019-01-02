@@ -10,6 +10,8 @@ subscription-form: true
 
 ## Portfolio Project Report
 
+*Note*: Code for this project can be found [on my GitHub](https://github.com/pechyonkin/carnd-p01-simple-lanes).
+
 The goals / steps of this project are the following:
 
 * Make a pipeline that finds lane lines on the road
