@@ -31,14 +31,14 @@ First of all, I decided to plot some random traffic signs from the train data se
 {% include image.html
             img="images/201707-signs/matrix.png"
             title="x"
-            caption="Caption" %}
+            caption="Random sample of 25 road signs." %}
 
 Another part that is really important for any classification task is the possible problem of class imbalance. In order to see whether this problem exists for this task, I decided to plot a simple histogram showing the number of training examples for each class. The result can be seen below. 
 
 {% include image.html
             img="images/201707-signs/hist-unprocessed.png"
             title="x"
-            caption="Caption" %}
+            caption="HIstogram of the 43 classes of traffic signs. Note that classes are imbalanced." %}
 
 It is clear that there are quite unbalanced classes in the data set. This means that the model might learn well good represented classes and might not learn well under-represented classes. In order to solve this issue, I balanced the classes in such a way that all of them have equal number of images.
 
@@ -53,14 +53,14 @@ The next two steps were **class balancing** and **data augmentation** using 3 ty
 {% include image.html
             img="images/201707-signs/matrix-aug.png"
             title="x"
-            caption="Caption" %}
+            caption="Random sample of 25 augmented traffic signs. I used rotation, translation and shear to increased variability of data during training." %}
 
 After augmentation/balancing, each class has 2010 images, which is how many images the largest class had before augmentation. Histogram of post-augmentation class distribution follows below (it is quite boring in fact, due to all classes having same number of examples).
 
 {% include image.html
             img="images/201707-signs/hist-processed.png"
             title="x"
-            caption="Caption" %}
+            caption="Histogram of dataset after random resampling with replacement was performed to make all classes equally represented." %}
 
 ### 2. Model architecture.
 
@@ -115,7 +115,7 @@ In the graph below, the blue line represents training accuracy and the orange li
 {% include image.html
             img="images/201707-signs/training.png"
             title="x"
-            caption="Caption" %}
+            caption="Vertical axis: accuracy; horizontal axis: number of training epochs. Blue line: train accuracy; orange line: test accuracy." %}
 
 After training the model for 201 epochs, the final results were:
 
@@ -146,8 +146,10 @@ Finally, training, validation and test accuracy are all realtively close to each
 
 Here are six German traffic signs that I found on the web:
 
-![alt text][image1] ![alt text][image2] ![alt text][image3] 
-![alt text][image4] ![alt text][image5] ![alt text][image6]
+{% include image.html
+            img="images/201707-signs/new.jpg"
+            title="x"
+            caption="Six German signs clipped from Google maps street view for testing the model." %}
 
 I cut them manually from Google maps, this is why they are all different sizes. When using them for predictions, I used CV2 to resize them to 32x32 pixels. It was not easy to find the signs. I entered street view on a random street in Berlin and spend around an hour collecting signs. I think I was not lucky and that area did not have too many signs.
 
