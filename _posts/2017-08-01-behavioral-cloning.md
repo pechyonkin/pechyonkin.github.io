@@ -10,6 +10,8 @@ subscription-form: true
 
 ## Portfolio Project Report
 
+<iframe width="840" height="475" src="https://www.youtube.com/embed/NApbriBYJRA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+
 *Note*: Code for this project can be found [on my GitHub](https://github.com/pechyonkin/carnd-p03-behavioral-cloning).
 
 ### 1. Submission Files
