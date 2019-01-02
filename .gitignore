@@ -7,3 +7,6 @@ _site
 _config.gh-pages.yml
 
 Gemfile.lock
+
+# Ignore work in progress folder
+wip
