@@ -1,6 +1,6 @@
 # Site settings
 title:       Max Pechyonkin
-email:       maxim.pechyonkin@gmail.com
+email:       
 author:      Max Pechyonkin
 description: "Max Pechyonkin"
 baseurl:     ""
@@ -8,7 +8,9 @@ url:         "https://pechyonkin.me"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
+ - portfolio.md
  - subscribe.md
+
 # - contact.md
 # - contact.html
 
