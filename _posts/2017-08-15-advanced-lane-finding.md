@@ -10,8 +10,9 @@ subscription-form: true
 
 ## Portfolio Project Report
 
-<iframe width="840" height="475" src="https://www.youtube.com/embed/EMDZKNsakDE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
-
+<div class="video-container">
+    <iframe src="https://www.youtube.com/embed/EMDZKNsakDE" frameborder="0" width="840" height="475"> </iframe>
+</div> 
 
 *Note*: Code for this project can be found [on my GitHub](https://github.com/pechyonkin/carnd-p04-advanced-lane-finding).
 
