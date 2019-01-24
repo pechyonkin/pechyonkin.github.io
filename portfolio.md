@@ -19,5 +19,7 @@ tags: portfolio
 
 ## Deep Learning: Non-Technical Writing
 
-1. CapsNet Series in four parts ([1](https://pechyonkin.me/capsules-1/), [2](https://pechyonkin.me/capsules-2/), [3](https://pechyonkin.me/capsules-3/), [4](https://pechyonkin.me/capsules-4/)) – a popular introduction of the novel neural network architecture
-2. [Stochastic Weight Averaging](https://pechyonkin.me/stochastic-weight-averaging/) — a new way to get state of the art results in deep learning
+1. CapsNet Series in four parts ([1](/capsules-1/), [2](https://pechyonkin.me/capsules-2/), [3](/capsules-3/), [4](/capsules-4/)) — a popular introduction of the novel neural network architecture. This series was originally published on Medium ([1](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b), [2](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-ii-how-capsules-work-153b6ade9f66), [3](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-iii-dynamic-routing-between-capsules-349f6d30418), [4](https://medium.com/@pechyonkin/part-iv-capsnet-architecture-6a64422f7dce)), where it got a lot of attention.
+2. [Stochastic Weight Averaging](/stochastic-weight-averaging/) — a new way to get state of the art results in deep learning.
+3. [Deep Learning Vision for Non-Vision Tasks](/deep-learning-vision-non-vision-tasks/) — three case studies about creative application of deep learning vision models to non-vision tasks
+4. [Key Deep Learning Architectures for Visual Object Recognition](/architectures/) — a series of posts about the most important CNN architectures.
