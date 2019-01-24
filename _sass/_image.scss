@@ -9,3 +9,18 @@
         font-size: $base-font-size;
     }
 }
+
+.image-wrapper-small {
+	margin-top: $space-3;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+
+    .image-caption {
+        color: $dark-gray;
+        margin-top: $space-1 / 2;
+        margin-bottom: $space-3;
+        font-size: $base-font-size;
+    }
+}
