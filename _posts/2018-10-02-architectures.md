@@ -21,10 +21,10 @@ Sorted in chronological order.
 
 - [LeNet](/architectures/lenet) (1998)
 - [AlexNet](/architectures/alexnet) (2012)
+- [ZFNet](/architectures/zfnet) (2013)
 
 Coming soon:
 
-- ZFNet (2013)
 - GoogLeNet (2014)
 - Inception (2014)
 - VGG (2014)
