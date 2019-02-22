@@ -10,6 +10,8 @@ subscription-form: true
 
 ## Introduction
 
+**Note**: this post was also published in [Towards Data Science](https://towardsdatascience.com/deep-learning-vision-non-vision-tasks-a809df74d6f).
+
 In recent years, deep learning has revolutionized computer vision. And thanks to [transfer learning](https://machinelearningmastery.com/transfer-learning-for-deep-learning/) and [amazing](https://course.fast.ai/) learning resources, anyone can start getting state of the art results within days and even hours, by using a pre-trained model and adapting it to your domain. As deep learning is becoming commoditized, what is needed is its creative application to different domains.
 
 Today, deep learning in computer vision has largely solved visual object classification, object detection, and recognition. In these areas, deep neural networks outperform human performance.
