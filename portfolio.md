@@ -5,6 +5,14 @@ permalink: /portfolio/
 tags: portfolio
 ---
 
+## Deep Learning
+
+1. **Eye tracking system**. I built a web app for data collection and then trained a model that predicts which part of laptop screen a user is looking at. [`Python`, `fastai`, `Flask`]
+2. **Leafy greens classifier**. You can try the deployed model [here](https://herbs.onrender.com/). [`Python`, `fastai`, `Docker`]
+
+<!--1. [Eye tracking system](/portfolio/eye-tracker/). I built a web app for data collection and then trained a model that predicts which part of laptop screen a user is looking at. [`Python`, `fastai`, `Flask`]
+2. Building a [leafy greens classifier](/portfolio/leafy-greens-classifier/). You can try the deployed model [here](https://herbs.onrender.com/). [`Python`, `fastai`, `Docker`]-->
+
 ## Autonomous Driving
 
 1. [Lane detection](/portfolio/lane-finding/) using computer vision techniques [`Python`, `OpenCV`]
