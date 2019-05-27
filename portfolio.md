@@ -5,9 +5,13 @@ permalink: /portfolio/
 tags: portfolio
 ---
 
+## 
+
+I built an automated sales pipeline using machine learning. Estimated customer return dates for auto dealers all across China.
+
 ### Deep Learning
 
-1. **Eye tracking system**. I built a web app for data collection and then trained a deep learning model that predicts which part of laptop screen a user is looking at. [`Python`, `fastai`, `Flask`]
+1. **Eye tracking system**. I built a web app for data collection and then trained a deep learning model that predicts which part of laptop screen a user is looking at. Together with a group of friends we productized this technology at a [Beijing Startup Weekend](https://www.eventbank.cn/event/startup-weekend-beijing-21527/) in May 2019 and got the third place. [`Python`, `fastai`, `Flask`]
 2. **Leafy greens classifier**. I often feel confused when shopping for leafy greens in China. This is why I duilt a classifier to tell them apart. You can try the deployed model [here](https://herbs.onrender.com/). [`Python`, `fastai`, `Docker`]
 
 <!--1. [Eye tracking system](/portfolio/eye-tracker/). I built a web app for data collection and then trained a model that predicts which part of laptop screen a user is looking at. [`Python`, `fastai`, `Flask`]
