@@ -5,9 +5,10 @@ permalink: /portfolio/
 tags: portfolio
 ---
 
-## 
+### Commercial Applications
 
-I built an automated sales pipeline using machine learning. Estimated customer return dates for auto dealers all across China.
+- I built an **automated sales pipeline** using machine learning for a client. Estimated customer return dates for auto dealers all across China.
+- **Deep learning in industrial defect detection**. I researched, created data collection pipeline (industrial cameras and lighting setup), collected and labelled data, trained a CNN and delivered a proof of concept to a client. System performance was on par with human quality assurance employees.
 
 ### Deep Learning
 
