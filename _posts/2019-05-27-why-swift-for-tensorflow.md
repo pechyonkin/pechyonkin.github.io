@@ -8,6 +8,8 @@ use_math:	false
 subscription-form: true
 ---
 
+**Note**: this article is also available [on Medium](https://towardsdatascience.com/why-swift-may-be-the-next-big-thing-in-deep-learning-f3f6a638ca72).
+
 ## Introduction
 
 If you are into programming, when you hear Swift, you will probably think about app development for iOS or MacOS. If you’re into deep learning, then you must have heard about [Swift for Tensorflow](https://www.tensorflow.org/swift/) (abbreviated as S4TF). Then, you can ask yourself: “Why would Google create a version of TensorFlow for Swift? There are already versions for Python and C++; why add another language?” In this post, I will try to answer this question and outline the reasons why you should carefully follow  S4TF as well as the Swift language itself. The goal of this post is not to give very detailed explanations but to provide a general overview with plenty of links so that you can go and dig deeper if you get interested.
@@ -48,5 +50,3 @@ If you are into deep learning, then Swift is a language you should probably star
 ## Links for Further Exploration
 * [fast.ai Embracing Swift for Deep Learning · fast.ai](https://www.fast.ai/2019/03/06/fastai-swift/)
 * [Understanding Swift for TensorFlow](https://towardsdatascience.com/machine-learning-with-swift-for-tensorflow-9167df128912)
-
-**Note**: this article is also available [on Medium](https://towardsdatascience.com/why-swift-may-be-the-next-big-thing-in-deep-learning-f3f6a638ca72).
