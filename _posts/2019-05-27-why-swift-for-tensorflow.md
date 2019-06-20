@@ -48,3 +48,5 @@ If you are into deep learning, then Swift is a language you should probably star
 ## Links for Further Exploration
 * [fast.ai Embracing Swift for Deep Learning · fast.ai](https://www.fast.ai/2019/03/06/fastai-swift/)
 * [Understanding Swift for TensorFlow](https://towardsdatascience.com/machine-learning-with-swift-for-tensorflow-9167df128912)
+
+**Note**: this article is also available [on Medium](https://towardsdatascience.com/why-swift-may-be-the-next-big-thing-in-deep-learning-f3f6a638ca72).
